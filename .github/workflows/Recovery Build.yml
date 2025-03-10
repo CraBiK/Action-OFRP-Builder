@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/CraBiK/android_device_xiaomi_emerald'
+        default: 'https://github.com/fatihesergg/android_device_emerald'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'emerald-user-12-SP1A.210812.016-OS2.0.2.0.VNFMIXM-release-keys'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
